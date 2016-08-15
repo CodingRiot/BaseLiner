@@ -1,0 +1,10 @@
+C:\code\BaseLine\BaseLine\obj\Debug\BaseLine.csprojResolveAssemblyReference.cache
+C:\code\BaseLine\BaseLine\bin\Debug\BaseLine.dll
+C:\code\BaseLine\BaseLine\bin\Debug\BaseLine.pdb
+C:\code\BaseLine\BaseLine\bin\Debug\nunit.framework.dll
+C:\code\BaseLine\BaseLine\bin\Debug\nunit.framework.xml
+C:\code\BaseLine\BaseLine\obj\Debug\BaseLine.dll
+C:\code\BaseLine\BaseLine\obj\Debug\BaseLine.pdb
+C:\code\BaseLine\BaseLine\bin\Debug\NLog.config
+C:\code\BaseLine\BaseLine\bin\Debug\NLog.dll
+C:\code\BaseLine\BaseLine\bin\Debug\NLog.xml
